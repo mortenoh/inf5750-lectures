@@ -1,11 +1,11 @@
 {
   "version": "0.1",
-  "name": "simple",
+  "name": "simple-app",
   "description": "Simple App",
-  "launch_path": "/index.html",
+  "launch_path": "index.html",
   "developer": {
     "name": "Morten Olav Hansen",
-    "url": "http://some.url"
+    "url": "https://github.com/mortenoh/inf5750-lectures/tree/master/simple-app"
   },
   "default_locale": "en",
   "activities": {
