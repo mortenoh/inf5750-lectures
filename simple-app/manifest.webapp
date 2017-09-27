@@ -1,0 +1,16 @@
+{
+  "version": "0.1",
+  "name": "simple",
+  "description": "Simple App",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "Morten Olav Hansen",
+    "url": "http://some.url"
+  },
+  "default_locale": "en",
+  "activities": {
+    "dhis": {
+      "href": "*"
+    }
+  }
+}
